@@ -1,0 +1,7 @@
+{
+    "sketch": "RFIDTS.ino",
+    "configuration": "FlashFreq=80,PartitionScheme=default,CPUFreq=240,UploadSpeed=921600,DebugLevel=none,EraseFlash=none",
+    "board": "esp32:esp32:d1_uno32",
+    "port": "COM3",
+    "programmer": "esptool"
+}
